@@ -7,6 +7,9 @@
     <!-- daisy ui cdn -->
      <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
 <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+
+<!-- font awesome cdn -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
 
@@ -70,7 +73,66 @@
 
     </header>
 
-    <main class="bg-gray-400">
+    <!-- main part -->
+
+    <main class="bg-[#f5fff6]">
+
+
+        <section id="products-container" class="w-11/12 mx-auto py-10 grid grid-cols-12 gap-6">
+
+
+
+            <section id="products-box" class="col-span-9">
+                
+
+                <div class="card">
+
+                    <!-- card 1 -->
+
+<div class="card bg-base-100 w-[436px] h-[360px] shadow-sm p-[25px]">
+
+  <figure class="w-full">
+  <div class="flex justify-between items-center w-full">
+    
+    <div class="bg-[#ffe3e2] w-[60px] h-[60px] rounded-[16px] flex items-center justify-center ml-[20px]">
+      <img class="w-[32px] h-[32px]" src="./assets/emergency.png" alt="" />
+    </div>
+
+    <!-- Icon -->
+    <div class="mr-[20px]">
+      <i class="fa-regular fa-heart w-6 h-6 "></i>
+    </div>
+  </div>
+</figure>
+
+
+
+  <div class="card-body">
+    <h2 class="card-title">
+      National Emergency Number
+    </h2>
+    <p class="text-[gray]">National Emergency</p>
+    <h1 class="text-[32px] font-bold">999</h1>
+    <div class="bg-gray-300 w-[50px] h-[30px] rounded-2xl"><p class="text-[18px] m-auto ml-[15px]  ">All</p></div>
+    <div class="card-actions justify-around">
+      <div class="btn shadow-md bg-white text-[gray]  w-[150px] "> <i class="fa-solid fa-copy"></i> Copy</div>
+      <div class="btn btn-active bg-[#00a63e] text-[white] w-[150px]"> <i class="fa-solid fa-phone"></i> Call</div>
+    </div>
+  </div>
+</div>
+
+                </div>
+
+            </section>
+
+
+
+
+            <aside id="card-box" class="bg-blue-800 col-span-3">
+                <h1>cart</h1>
+            </aside>
+
+        </section>
 
 
        
