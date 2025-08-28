@@ -131,7 +131,7 @@ console.log(coinKoma)
      const div = document.createElement("div");
      div.innerHTML = `
 
-     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl">
+     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl font-bold">
 
    <div>
           <h1>national emergency Number</h1>
@@ -183,7 +183,7 @@ console.log(coinKoma)
      const div = document.createElement("div");
      div.innerHTML = `
 
-     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl">
+     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl font-bold">
 
    <div>
           <h1>Police Helpline Number</h1>
@@ -235,7 +235,7 @@ console.log(coinKoma)
      const div = document.createElement("div");
      div.innerHTML = `
 
-     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl">
+     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl font-bold">
 
    <div>
           <h1>Fire Service Number</h1>
@@ -287,7 +287,7 @@ console.log(coinKoma)
      const div = document.createElement("div");
      div.innerHTML = `
 
-     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl">
+     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl font-bold ">
 
    <div>
           <h1>Ambulance Service</h1>
@@ -339,7 +339,7 @@ console.log(coinKoma)
      const div = document.createElement("div");
      div.innerHTML = `
 
-     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl">
+     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl font-bold">
 
    <div>
           <h1>Women & Child Helpline</h1>
@@ -391,7 +391,7 @@ console.log(coinKoma)
      const div = document.createElement("div");
      div.innerHTML = `
 
-     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl">
+     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl font-bold">
 
    <div>
           <h1>Anti-Corruption Helpline</h1>
@@ -443,7 +443,7 @@ console.log(coinKoma)
      const div = document.createElement("div");
      div.innerHTML = `
 
-     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl">
+     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl font-bold">
 
    <div>
           <h1>Electricity Helpline</h1>
@@ -495,7 +495,7 @@ console.log(coinKoma)
      const div = document.createElement("div");
      div.innerHTML = `
 
-     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl">
+     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl font-bold">
 
    <div>
           <h1>Brac Helpline</h1>
@@ -548,7 +548,7 @@ console.log(coinKoma)
      const div = document.createElement("div");
      div.innerHTML = `
 
-     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl">
+     <div  class="flex justify-between items-center m-4 bg-[#f5fff6] p-2.5 rounded-2xl font-bold">
 
    <div>
           <h1>Bangladesh Railway Helpline</h1>
