@@ -581,3 +581,193 @@ document.getElementById("clear-btn").addEventListener("click", function() {
 });
 
 
+
+
+// copy item
+
+// copy card 1
+
+document.getElementById("copy-btn-1").addEventListener("click", function(){
+   
+
+    const countOn = document.getElementById("copy-item");
+    let count = parseInt(countOn.innerText) || 0;
+    count++;
+    countOn.innerText = count; 
+
+    const textCopy = "999"
+    navigator.clipboard.writeText(textCopy)
+    .then(() => {
+        alert("999 কপি করা হয়েছে")
+    })
+
+    
+    
+})
+
+
+// copy card 2
+
+document.getElementById("copy-btn-2").addEventListener("click", function(){
+   
+
+    const countOn = document.getElementById("copy-item");
+    let count = parseInt(countOn.innerText) || 0;
+    count++;
+    countOn.innerText = count; 
+
+    const textCopy = "999"
+    navigator.clipboard.writeText(textCopy)
+    .then(() => {
+        alert("999 কপি করা হয়েছে")
+    })
+
+    
+    
+})
+
+
+// copy card 3
+
+document.getElementById("copy-btn-3").addEventListener("click", function(){
+   
+
+    const countOn = document.getElementById("copy-item");
+    let count = parseInt(countOn.innerText) || 0;
+    count++;
+    countOn.innerText = count; 
+
+    const textCopy = "999"
+    navigator.clipboard.writeText(textCopy)
+    .then(() => {
+        alert("999 কপি করা হয়েছে")
+    })
+
+    
+    
+})
+
+
+// copy card 4
+
+document.getElementById("copy-btn-4").addEventListener("click", function(){
+   
+
+    const countOn = document.getElementById("copy-item");
+    let count = parseInt(countOn.innerText) || 0;
+    count++;
+    countOn.innerText = count; 
+
+    const textCopy = "1994-999999"
+    navigator.clipboard.writeText(textCopy)
+    .then(() => {
+        alert("1994-999999 কপি করা হয়েছে")
+    })
+
+    
+    
+})
+
+
+// copy card 5
+
+document.getElementById("copy-btn-5").addEventListener("click", function(){
+   
+
+    const countOn = document.getElementById("copy-item");
+    let count = parseInt(countOn.innerText) || 0;
+    count++;
+    countOn.innerText = count; 
+
+    const textCopy = "109"
+    navigator.clipboard.writeText(textCopy)
+    .then(() => {
+        alert("109 কপি করা হয়েছে")
+    })
+
+    
+    
+})
+
+
+// copy card 6
+
+document.getElementById("copy-btn-6").addEventListener("click", function(){
+   
+
+    const countOn = document.getElementById("copy-item");
+    let count = parseInt(countOn.innerText) || 0;
+    count++;
+    countOn.innerText = count; 
+
+    const textCopy = "106"
+    navigator.clipboard.writeText(textCopy)
+    .then(() => {
+        alert("106 কপি করা হয়েছে")
+    })
+
+    
+    
+})
+
+
+// copy card 7
+
+document.getElementById("copy-btn-7").addEventListener("click", function(){
+   
+
+    const countOn = document.getElementById("copy-item");
+    let count = parseInt(countOn.innerText) || 0;
+    count++;
+    countOn.innerText = count; 
+
+    const textCopy = "16216"
+    navigator.clipboard.writeText(textCopy)
+    .then(() => {
+        alert("16216 কপি করা হয়েছে")
+    })
+
+    
+    
+})
+
+// copy card 8
+
+document.getElementById("copy-btn-8").addEventListener("click", function(){
+   
+
+    const countOn = document.getElementById("copy-item");
+    let count = parseInt(countOn.innerText) || 0;
+    count++;
+    countOn.innerText = count; 
+
+    const textCopy = "16445"
+    navigator.clipboard.writeText(textCopy)
+    .then(() => {
+        alert("16445 কপি করা হয়েছে")
+    })
+
+    
+    
+})
+
+
+// copy card 9
+
+document.getElementById("copy-btn-9").addEventListener("click", function(){
+   
+
+    const countOn = document.getElementById("copy-item");
+    let count = parseInt(countOn.innerText) || 0;
+    count++;
+    countOn.innerText = count; 
+
+    const textCopy = "163"
+    navigator.clipboard.writeText(textCopy)
+    .then(() => {
+        alert("163 কপি করা হয়েছে")
+    })
+
+    
+    
+})
